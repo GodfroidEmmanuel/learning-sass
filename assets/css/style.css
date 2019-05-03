@@ -1,0 +1,17 @@
+.foo {
+  background: #00ff0d;
+}
+
+.foo p {
+  color: blue;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.test {
+  background-color: aquamarine;
+}
+
+.test p {
+  color: coral;
+}
